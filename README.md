@@ -10,4 +10,4 @@
  Chase little red dot someday it will be mine! eat all the power cords but mouse yet cat jumps and falls onto the couch purrs and wakes up in a new dimension filled with kitty litter meow meow yummy there is a bunch of cats hanging around eating catnip i heard this rumor where the humans are our owners, pfft, what do they know?!..
  asdasdasdsadasdasdsadasd add a line for rebasing exampls, more changes from myfeature
 ### Copyright
-git.training
+git.training all right reserved
